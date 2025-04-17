@@ -18,6 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 📚 Learning
+[![roadmap.sh](https://roadmap.sh/card/tall/680028826057cdb1a221412d?variant=dark)](https://roadmap.sh)
 ---
 [![](https://visitcount.itsvg.in/api?id=Offbirk&icon=0&color=0)](https://visitcount.itsvg.in)
 
